@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Logo Samurai](http://pngimg.com/uploads/samurai/samurai_PNG35.png)
